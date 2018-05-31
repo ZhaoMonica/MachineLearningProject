@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c59c78d1-3ee1-4688-b5dd-1f8719f4b989" name="Default" comment="" />
+    <list default="true" id="c59c78d1-3ee1-4688-b5dd-1f8719f4b989" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/量化交易实战/test1.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +22,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,14 +46,15 @@
         <option value="$PROJECT_DIR$/ch02_NN/NN_mlpclassifier_iris.py" />
         <option value="$PROJECT_DIR$/ch02_NN/digits_NN.py" />
         <option value="$PROJECT_DIR$/ch02_NN/test2.py" />
+        <option value="$PROJECT_DIR$/量化交易实战/test1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="234" />
-    <option name="y" value="90" />
-    <option name="width" value="645" />
-    <option name="height" value="606" />
+    <option name="x" value="399" />
+    <option name="y" value="70" />
+    <option name="width" value="873" />
+    <option name="height" value="597" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -64,6 +72,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -85,6 +94,11 @@
             <path>
               <item name="机器学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="机器学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="机器学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="机器学习" type="462c0819:PsiDirectoryNode" />
+              <item name="量化交易实战" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test2 (1)">
+  <component name="RunManager" selected="Python.test1 (1)">
     <configuration name="鸢尾花案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,6 +143,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="机器学习" />
       <option name="SCRIPT_NAME" value="D:/人工智能资料/5机器学习/鸢尾花案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="IFT_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/策略案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="机器学习" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/策略案例/IFT_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +202,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01_svm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/量化交易实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="机器学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01_svm/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/量化交易实战/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,38 +238,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01_svm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="机器学习" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01_svm/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.NN_mlpclassifier_iris" />
-      <item index="3" class="java.lang.String" itemvalue="Python.digits_NN" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test2 (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.NN_mlpclassifier_iris" />
+      <item index="1" class="java.lang.String" itemvalue="Python.digits_NN" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test2 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.IFT_0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test2 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.digits_NN" />
-        <item index="2" class="java.lang.String" itemvalue="Python.NN_mlpclassifier_iris" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IFT_0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test2 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.digits_NN" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NN_mlpclassifier_iris" />
       </list>
     </recent_temporary>
   </component>
@@ -258,14 +272,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="90" width="645" height="606" extended-state="1" />
+    <frame x="399" y="70" width="873" height="597" extended-state="1" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50940174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16728167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.075789474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4623656" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -569,7 +583,7 @@
         <state relative-caret-position="158">
           <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -579,7 +593,7 @@
         <state relative-caret-position="210">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -589,6 +603,34 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/策略案例/IFT_0.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/策略案例/IFT_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/量化交易实战/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
