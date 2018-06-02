@@ -20,3 +20,7 @@ mpf.candlestick_ohlc(ax, candleData, width=0.5, colorup='r', colordown='b')
 news = ts.get_latest_news()
 news5 = ts.get_latest_news(top=5, show_content=True)
 print(news5)
+
+# 一次获取当前交易所有股票的行情数据
+# df = ts.get_today_all()
+# print(df)

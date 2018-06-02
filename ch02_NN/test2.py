@@ -7,6 +7,7 @@ from sklearn.datasets import load_digits
 digits = load_digits()
 X = digits.data
 Y = digits.target
+print(X)
 #  过拟合：增加训练样本
 train_x = X[:-100]; test_x = X[-100:]
 train_y = Y[:-100]; test_y = Y[-100:]
